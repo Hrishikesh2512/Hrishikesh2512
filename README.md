@@ -62,9 +62,8 @@ email: jha.kharakh@gmail.com
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrishikesh2512&show_icons=true&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh2512&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Streak" width="49%" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh2512&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
