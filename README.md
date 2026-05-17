@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hrishikesh%20Jha&fontSize=60&fontAlignY=40&desc=AIML%20Engineer%20•%20Human-Computer%20Interaction&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hrishikesh%20Jha&fontSize=60&fontAlignY=40&desc=AI/ML%20Engineer%20•%20Human-Computer%20Interaction&descAlignY=60&descSize=20" width="100%"/>
 
 ## 🕵️ About Me
 ```yaml
 name: Hrishikesh Jha
-role: AIML Engineer
+role: AI/ML Engineer
 focus:
   - Distributed Systems & Real-Time Communication
   - Artificial Intelligence & Machine Learning
