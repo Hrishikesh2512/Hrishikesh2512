@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hrishikesh%20Jha&fontSize=60&fontAlignY=40&desc=AI/ML%20Engineer%20•%20Human-Computer%20Interaction&descAlignY=60&descSize=20" width="100%"/>
 
-## 🕵️ About Me
+##  About Me
 ```yaml
 name: Hrishikesh Jha
 role: AI/ML Engineer
@@ -15,7 +15,7 @@ currently_building:
 email: jha.kharakh@gmail.com
 ```
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table bordercolor="#30363d">
   <tr>
@@ -60,7 +60,7 @@ email: jha.kharakh@gmail.com
   <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh2512&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Streak" />
@@ -70,7 +70,7 @@ email: jha.kharakh@gmail.com
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh2512&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
-## 🌐 Connect
+##  Connect
 
 <p align="left">
   <a href="https://github.com/Hrishikesh2512"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
