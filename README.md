@@ -20,7 +20,7 @@ email: jha.kharakh@gmail.com
 <table bordercolor="#30363d">
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/Hrishikesh2512/Drishti">👁️ Drishti</a></h3>
+      <h3><a href="https://github.com/Hrishikesh2512/Drishti"> Drishti</a></h3>
       <p>Computer vision and AI perception system designed for advanced environmental understanding and interaction.</p>
       <a href="https://github.com/Hrishikesh2512/Drishti"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
       <br/><br/>
@@ -29,7 +29,7 @@ email: jha.kharakh@gmail.com
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/Hrishikesh2512/AIX-Terminal">💻 AIX-Term Pro</a></h3>
+      <h3><a href="https://github.com/Hrishikesh2512/AIX-Terminal"> AIX-Term Pro</a></h3>
       <p>AI-powered terminal and system interaction layer, redefining how users communicate with command-line interfaces.</p>
       <a href="https://github.com/Hrishikesh2512/AIX-Terminal"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
       <br/><br/>
@@ -38,7 +38,7 @@ email: jha.kharakh@gmail.com
       <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white" />
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/Hrishikesh2512/Smyrti">🧠 SMYRTI</a></h3>
+      <h3><a href="https://github.com/Hrishikesh2512/Smyrti"> SMYRTI</a></h3>
       <p>Intelligent memory and context system enabling persistent semantic understanding across sessions.</p>
       <a href="https://github.com/Hrishikesh2512/Smyrti"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
       <br/><br/>
