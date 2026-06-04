@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Hrishikesh%20Jha&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20Human-Computer%20Interaction&descAlignY=60&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
- 
+
 </div>
 
 ---
@@ -20,7 +20,7 @@ currently_building:
   - 💻  AIX-Terminal  — AI-powered terminal interaction layer
   - 🧩  Smyrti        — intelligent memory & context system
 email: jha.kharakh@gmail.com
-```
+` ` `
 
 ---
 
@@ -85,19 +85,10 @@ email: jha.kharakh@gmail.com
 
 ---
 
-## 🏆 GitHub Trophies
+## ⏱️ WakaTime Coding Activity
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hrishikesh2512&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🔥 WakaTime Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hrishikesh2512&theme=tokyonight&hide_border=true&border_radius=12&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&layout=compact" alt="WakaTime Stats" />
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -127,3 +118,8 @@ email: jha.kharakh@gmail.com
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+```
+
+---
+
+> **Important:** The two lines `<!--START_SECTION:waka-->` and `<!--END_SECTION:waka-->` must stay exactly as-is — the GitHub Action finds those comments and injects your WakaTime stats between them automatically every day.
