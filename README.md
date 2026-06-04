@@ -20,7 +20,7 @@ currently_building:
   - 💻  AIX-Terminal  — AI-powered terminal interaction layer
   - 🧩  Smyrti        — intelligent memory & context system
 email: jha.kharakh@gmail.com
-` ` `
+```
 
 ---
 
@@ -118,8 +118,3 @@ email: jha.kharakh@gmail.com
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-```
-
----
-
-> **Important:** The two lines `<!--START_SECTION:waka-->` and `<!--END_SECTION:waka-->` must stay exactly as-is — the GitHub Action finds those comments and injects your WakaTime stats between them automatically every day.
