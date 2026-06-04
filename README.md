@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Hrishikesh%20Jha&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20Human-Computer%20Interaction&descAlignY=60&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
-
+ 
 </div>
 
 ---
