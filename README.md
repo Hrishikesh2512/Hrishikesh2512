@@ -1,5 +1,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hrishikesh%20Jha&fontSize=60&fontAlignY=40&desc=AI/ML%20Engineer%20•%20Human-Computer%20Interaction&descAlignY=60&descSize=20" width="100%"/>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-jha-957603220)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hrishikesh2512)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HrishikeshJha)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/gangsterhrishi25032)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hrishikeshjhaa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jha.kharakh@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hrishikesh2512&label=Profile+Views&color=f472b6&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Hrishikesh2512?style=flat-square&color=f472b6)
+
+</div>
+
+---
+
 ## whoami
 
 ```yaml
@@ -12,6 +30,19 @@ obsessions:
 currently: neck-deep in agents, vision systems, and things that shouldn't work but do
 email: jha.kharakh@gmail.com
 ```
+
+---
+
+## About Me
+
+I'm an AI/ML engineer who builds things that push the boundary between language models and real-world utility: agents that plan, systems that remember, and vision models that understand context instead of just detecting objects.
+
+- 🔭 Currently building multi-agent systems, vision pipelines, and persistent memory architectures
+- 🛠️ Author of **[SomaFlow](https://github.com/Hrishikesh2512/SomaFlow)**, **[Drishti](https://github.com/Hrishikesh2512/Drishti)**, **[SMYRTI](https://github.com/Hrishikesh2512/Smyrti)**, and **[AIX-Term Pro](https://github.com/Hrishikesh2512/AIX-Terminal)**
+- 💬 Ask me about multi-agent architectures, computer vision, LLM memory systems, or terminal tooling
+- 📍 Open to remote/hybrid opportunities in AI/ML engineering
+
+---
 
 ## things i've built and refuse to stop working on
 
@@ -58,6 +89,8 @@ email: jha.kharakh@gmail.com
   </tr>
 </table>
 
+---
+
 ## the stack
 
 <p align="left">
@@ -72,6 +105,8 @@ email: jha.kharakh@gmail.com
   <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
+---
+
 ## things i keep thinking about
 
 ```
@@ -82,25 +117,62 @@ email: jha.kharakh@gmail.com
   most "AI products" are just APIs with nice fonts
 ```
 
-## numbers
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh2512&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrishikesh2512&theme=tokyonight" alt="GitHub Stats" />
+
 </div>
-<br>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh2512&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh2512&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Streak" />
+
 </div>
 
-## find me
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/Hrishikesh2512"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:jha.kharakh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hrishikesh-jha-957603220"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/hrishikeshjhaa"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/HrishikeshJha"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://discordapp.com/users/gangsterhrishi25032"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh2512&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+## Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Hrishikeshjha/">
+  <img src="https://leetcard.jacoblin.cool/Hrishikeshjha?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+## Latest Blog Posts / Writings
+
+<!-- BLOG:START -->
+I write about things I actually build and learn. Check out my blog on Hashnode →
+
+[![Blog / Writing](https://img.shields.io/badge/Read_on_Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@hrishikeshjhaa)
+
+<!-- BLOG:END -->
+
+<div align="center">
+
+**If you're working on agents, perception systems, or AI that needs to remember things: let's talk.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-jha-957603220)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hrishikesh2512)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HrishikeshJha)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jha.kharakh@gmail.com)
+
+<br/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
