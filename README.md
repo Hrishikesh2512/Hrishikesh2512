@@ -12,7 +12,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hrishikesh2512&label=Profile+Views&color=f472b6&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/Hrishikesh2512?style=flat-square&color=f472b6)
+
 
 </div>
 
