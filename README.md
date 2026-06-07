@@ -33,16 +33,6 @@ email: jha.kharakh@gmail.com
 
 ---
 
-## About Me
-
-I'm an AI/ML engineer who builds things that push the boundary between language models and real-world utility: agents that plan, systems that remember, and vision models that understand context instead of just detecting objects.
-
-- 🔭 Currently building multi-agent systems, vision pipelines, and persistent memory architectures
-- 🛠️ Author of **[SomaFlow](https://github.com/Hrishikesh2512/SomaFlow)**, **[Drishti](https://github.com/Hrishikesh2512/Drishti)**, **[SMYRTI](https://github.com/Hrishikesh2512/Smyrti)**, and **[AIX-Term Pro](https://github.com/Hrishikesh2512/AIX-Terminal)**
-- 💬 Ask me about multi-agent architectures, computer vision, LLM memory systems, or terminal tooling
-- 📍 Open to remote/hybrid opportunities in AI/ML engineering
-
----
 
 ## things i've built and refuse to stop working on
 
