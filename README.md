@@ -125,8 +125,11 @@ email: jha.kharakh@gmail.com
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh2512&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+
 </div>
 
+---
 ---
 
 ## Problem Solving
