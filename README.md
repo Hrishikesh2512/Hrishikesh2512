@@ -9,13 +9,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hrishikeshjhaa)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jha.kharakh@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Hrishikesh2512&label=Profile+Views&color=f472b6&style=flat-square)
 
 
-</div>
 
+
+
+
+<div align="left">
 ---
 
 ## whoami
@@ -135,8 +135,6 @@ I'm an AI/ML engineer who builds things that push the boundary between language 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh2512&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-
 </div>
 
 ---
@@ -160,19 +158,5 @@ I write about things I actually build and learn. Check out my blog on Hashnode â
 
 <!-- BLOG:END -->
 
-<div align="center">
-
-**If you're working on agents, perception systems, or AI that needs to remember things: let's talk.**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-jha-957603220)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hrishikesh2512)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HrishikeshJha)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jha.kharakh@gmail.com)
-
-<br/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
