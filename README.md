@@ -49,24 +49,26 @@ email: jha.kharakh@gmail.com
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hrishikesh2512/AIX-Terminal">⚡ AIX-Term Pro</a></h3>
-      <p>Type what you want in plain English, get the shell command, see it run. Understands your current directory, session state, and won't execute anything dangerous without asking. Basically a sane interface for the terminal.</p>
-      <a href="https://github.com/Hrishikesh2512/AIX-Terminal"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <h3><a href="https://github.com/Hrishikesh2512/FLINT">🎙️ FLINT</a></h3>
+      <p>Talk to it, show it your screen, and it drives your apps: multi-step tasks, web search, reminders, the lot. Voice-first in English or any major Indian language, with screen vision so it acts on what it actually sees. A desktop assistant that does things, not just answers them.</p>
+      <a href="https://github.com/Hrishikesh2512/FLINT"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-      <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini_Live-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Hrishikesh2512/Drishti">👁️ Drishti</a></h3>
-      <p>Real-time computer vision system that does more than detect objects: it tracks spatial relationships between them and infers what's actually happening in a scene. Point a camera at something, get structured understanding back, not just bounding boxes.</p>
-      <a href="https://github.com/Hrishikesh2512/Drishti"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <h3><a href="https://github.com/Hrishikesh2512/mool">🐧 mool</a></h3>
+      <p>Blank machine to writing code with zero setup: pick your stacks once and everything installs itself. One <code>mool</code> command runs the day-to-day chores, and the desktop is addressed by meaning: say what you're trying to do and the workspace rebuilds itself around it. Arch underneath, always snapshot-recoverable.</p>
+      <a href="https://github.com/Hrishikesh2512/mool"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
       <br/><br/>
+      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black" />
+      <img src="https://img.shields.io/badge/eBPF-FF6600?style=flat-square&logo=ebpf&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Hrishikesh2512/Smyrti">🧠 SMYRTI</a></h3>
